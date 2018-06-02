@@ -1,2 +1,2 @@
 # Optimal Bayesian Transfer Learning for Count Data
-This is the Matlab code for the paper "Optimal Bayesian Transfer Learning for Count Data". You can run the file named demo.m to reproduce the resluts for the paper.
+This is the Matlab code for the paper "Optimal Bayesian Transfer Learning for Count Data". You can run the file named demo.m to reproduce the resluts for the paper. Before running the demo file, make sure to install MatlabStan and add its path in the first line of the demo file. Follow the instruction in https://github.com/brian-lau/MatlabStan/wiki to install MatlabStan. 
